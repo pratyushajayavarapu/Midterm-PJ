@@ -77,7 +77,7 @@ class Program
     static void Main(string[] args)
     {
         // Creating instances of InventoryItem
-        InventoryItem item1 = new InventoryItem("Laptop", 101, 1200.50, 10);
+        InventoryItem item1 = new InventoryItem("Laptop", 101, 1200.50,  10);
         InventoryItem item2 = new InventoryItem("Smartphone", 102, 800.30, 15);
 
         // TODO: Implement logic to interact with these objects.
